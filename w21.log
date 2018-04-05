@@ -1,0 +1,8 @@
+[2018-03-26 21:46:07,661: INFO/MainProcess] Connected to redis://localhost:6379//
+[2018-03-26 21:46:07,674: INFO/MainProcess] mingle: searching for neighbors
+[2018-03-26 21:46:08,704: INFO/MainProcess] mingle: sync with 3 nodes
+[2018-03-26 21:46:08,716: INFO/MainProcess] mingle: sync complete
+[2018-03-26 21:46:08,725: INFO/MainProcess] w21@calmyan ready.
+[2018-03-26 21:46:54,517: INFO/MainProcess] sync with w6@calmyan
+[2018-03-27 08:53:26,318: INFO/MainProcess] sync with w2@calmyan
+[2018-03-27 08:53:28,770: INFO/MainProcess] sync with w1@calmyan
